@@ -9,7 +9,7 @@ A website where you can get all the information about what is going on in footba
  - React.js 
  - Node.js 
  - Express.js
- - MongoDB
+
 ## Run the project
 
 Clone the repository
