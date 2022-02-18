@@ -1,5 +1,5 @@
 
-# Budkazar
+# Footscore
 
 A website where you can get all the information about what is going on in football world.
 
